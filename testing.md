@@ -3,4 +3,8 @@ git commit -m "comment"
 git push
 
 
-thisceacja-odjaqd
+git pull
+
+git checkout name
+
+git branch
